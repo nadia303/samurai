@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/samurai/static/css/main.8d363940.chunk.css",
+    "main.js": "/samurai/static/js/main.1eae1d56.chunk.js",
+    "main.js.map": "/samurai/static/js/main.1eae1d56.chunk.js.map",
+    "runtime-main.js": "/samurai/static/js/runtime-main.d22037a8.js",
+    "runtime-main.js.map": "/samurai/static/js/runtime-main.d22037a8.js.map",
+    "static/js/2.c627fdad.chunk.js": "/samurai/static/js/2.c627fdad.chunk.js",
+    "static/js/2.c627fdad.chunk.js.map": "/samurai/static/js/2.c627fdad.chunk.js.map",
+    "static/js/3.aec50ca9.chunk.js": "/samurai/static/js/3.aec50ca9.chunk.js",
+    "static/js/3.aec50ca9.chunk.js.map": "/samurai/static/js/3.aec50ca9.chunk.js.map",
+    "index.html": "/samurai/index.html",
+    "static/css/main.8d363940.chunk.css.map": "/samurai/static/css/main.8d363940.chunk.css.map",
+    "static/js/2.c627fdad.chunk.js.LICENSE.txt": "/samurai/static/js/2.c627fdad.chunk.js.LICENSE.txt",
+    "static/media/preloader.a1a99674.gif": "/samurai/static/media/preloader.a1a99674.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d22037a8.js",
+    "static/js/2.c627fdad.chunk.js",
+    "static/css/main.8d363940.chunk.css",
+    "static/js/main.1eae1d56.chunk.js"
+  ]
+}
