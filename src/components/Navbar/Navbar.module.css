@@ -1,0 +1,22 @@
+.nav {
+  grid-area: nav;
+  background-color: indianred;
+}
+
+.item a {
+  color: white;
+  text-decoration: none;
+}
+/* 
+  .item a .activeLink{
+    color: brown;
+  } */
+
+.item {
+  color: white;
+}
+
+.active {
+  color: brown;
+  background-color: darkgoldenrod;
+}

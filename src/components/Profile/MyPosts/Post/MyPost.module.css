@@ -1,0 +1,10 @@
+.post img {
+  width: 100px;
+}
+
+.post {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  margin-bottom: 10px;
+}
